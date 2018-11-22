@@ -12,5 +12,9 @@
 ```
 CodeExport.exe 源代码完整路径 要导出的文本文件完整路径 支持导出的代码文件后缀名（支持多个）
 ```
+例如：
+```
+CodeExport.exe e:\code e:\code1\code.txt java css html
+```
 
 ![](run2.gif)
